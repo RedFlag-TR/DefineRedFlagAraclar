@@ -1,0 +1,494 @@
+{
+ "bicim": 1,
+ "uretim": "2026-11-13T09:16:34Z",
+ "metin": "Tanzil Uthmani",
+ "yazi_tipi": "Amiri Quran",
+ "boy": 54,
+ "genislik": 1180,
+ "mealler": {
+  "turkish_shahin": {
+   "ad": "Turkish Translation - Dr. Ali Ozek and others",
+   "surum": "1.0.0",
+   "guncelleme": "1495486800"
+  },
+  "turkish_rwwad": {
+   "ad": "Turkish Translation - Rowwad Translation Center",
+   "surum": "1.0.4",
+   "guncelleme": "1759071052"
+  }
+ },
+ "dosyalar": {
+  "ayt/001.ayt": {
+   "boy": 25908,
+   "sha256": "f4507a17f5692822381170c98ef0870559e0d0789c8b361f694bc364ecc4f358"
+  },
+  "ayt/002.ayt": {
+   "boy": 4188244,
+   "sha256": "c81da1e02a688e05339c52f6864bfd7823797ee83078fd0dc0bfcf964bbe433d"
+  },
+  "ayt/003.ayt": {
+   "boy": 2422086,
+   "sha256": "1c99d8a2bde7b0d34f45f362cf055856925dcae25e98065d017685d44db65a79"
+  },
+  "ayt/004.ayt": {
+   "boy": 2576338,
+   "sha256": "8d0ad6fe331b3354ea5c7e158eef6cf72507e030c93a1ced859e260b978c7202"
+  },
+  "ayt/005.ayt": {
+   "boy": 1923096,
+   "sha256": "32b0bea898fbf91d7b6188561dd72962347d6f0487c5b69aaabf14346e7d9817"
+  },
+  "ayt/006.ayt": {
+   "boy": 2102835,
+   "sha256": "024a9ce636335e3cba03d28fce3c516410f363885dd3991eda83fc373e3ea6eb"
+  },
+  "ayt/007.ayt": {
+   "boy": 2366772,
+   "sha256": "9faf3db158f3ae2f13bab5c678ea478ce83b221325a652e445158503beb740d0"
+  },
+  "ayt/008.ayt": {
+   "boy": 875996,
+   "sha256": "09f4d6fe5aac8327aea99f4528df52c10d30921140d4207cb619abf909c6ab84"
+  },
+  "ayt/009.ayt": {
+   "boy": 1766317,
+   "sha256": "47952f442c5f9b8a160f8d10b4390c8619f438731b1208051ecc51ee3d969140"
+  },
+  "ayt/010.ayt": {
+   "boy": 1256771,
+   "sha256": "5322c6b3074412f07ea8836f9b7f0441b3bcd3e08e1bf9d2a6d357ca414bb9e1"
+  },
+  "ayt/011.ayt": {
+   "boy": 1304810,
+   "sha256": "ab125de3a9d059ef06a0aa867278ed05ec9a781ca18c83baa61dd4f3d755c18d"
+  },
+  "ayt/012.ayt": {
+   "boy": 1213606,
+   "sha256": "eb1cbe28cf12382cb2a7fd532f6e7d39882cd782ac098c8f35559c353bd942a7"
+  },
+  "ayt/013.ayt": {
+   "boy": 589323,
+   "sha256": "a9837e175a5b8bdb2c2c71b1cec8b14407c35ef8c30f816f57c915f334b14db6"
+  },
+  "ayt/014.ayt": {
+   "boy": 584731,
+   "sha256": "f4be1ca1bd1c641baa865654b8d460966e193b13877875d0aebb9d23dcacfd58"
+  },
+  "ayt/015.ayt": {
+   "boy": 519929,
+   "sha256": "46b62139ea39ea7ade02a04d4459747b66f8edfa27f07cc303a67eb9533b176c"
+  },
+  "ayt/016.ayt": {
+   "boy": 1302475,
+   "sha256": "3a1c4944bd115b777b51e11c9b4e2d44449708c4c7f76cbe8c1bd2c633922e2a"
+  },
+  "ayt/017.ayt": {
+   "boy": 1111497,
+   "sha256": "8860c52adfd0df0ca315f607248cd41548a41a18ef88e8ce6afa2d6c4cc69777"
+  },
+  "ayt/018.ayt": {
+   "boy": 1088234,
+   "sha256": "5ebcd2c072e5f0239117ea3d5e28360251b3f581ffdf9815a057a67ff8552f1f"
+  },
+  "ayt/019.ayt": {
+   "boy": 679441,
+   "sha256": "d2545de31e4a699f9b1f6939b5bcef669cbe4f1498489ca871c5c7fdf40fd61b"
+  },
+  "ayt/020.ayt": {
+   "boy": 956900,
+   "sha256": "70412afd7043369f0bc5f0f284a83e5c9ac1a40277db9ac3d9be0f75ed84793e"
+  },
+  "ayt/021.ayt": {
+   "boy": 862289,
+   "sha256": "d7a984c2319fe3a6f5e25aeb8ffaaf702856133db5bad107931a94ead724bbb0"
+  },
+  "ayt/022.ayt": {
+   "boy": 871350,
+   "sha256": "25e0023a19dc92b8c83ef12ace72c1b49d7f8387c88e3f5e9d03056d340619bb"
+  },
+  "ayt/023.ayt": {
+   "boy": 778936,
+   "sha256": "ad051e80084cf5138c2d5fa8cb2d95f5fd167356ef436feb3f2397cc315b7fc6"
+  },
+  "ayt/024.ayt": {
+   "boy": 915577,
+   "sha256": "313b8a310f241a22001a601fc5d23af52faa0484ff615d1056f4579b1bcd8c8b"
+  },
+  "ayt/025.ayt": {
+   "boy": 646937,
+   "sha256": "1364dfd8f4dd55d25bc125a7276cf59e8b9ceb1ca4f37d1a844b5815f03d8cd7"
+  },
+  "ayt/026.ayt": {
+   "boy": 1060589,
+   "sha256": "e9fdeebc984e2ebece913b26fcb5d4d7e47a9ac31a0123aba601833b34c08036"
+  },
+  "ayt/027.ayt": {
+   "boy": 818104,
+   "sha256": "72bffad6743189f8df4c733e77a0d5b8c088603bfce1154aa74436737046c536"
+  },
+  "ayt/028.ayt": {
+   "boy": 989937,
+   "sha256": "090b2f3d5b6a28de1d57696ebdffda50d253ac29795f142a52089d45cf42d269"
+  },
+  "ayt/029.ayt": {
+   "boy": 706167,
+   "sha256": "85827bc39af19eec6c34f8f10d1ac4460d0971f8c10b0877c1fdbf3ba332753d"
+  },
+  "ayt/030.ayt": {
+   "boy": 583018,
+   "sha256": "ad702b546e892f9c187dc5000c09c2b4ba018da56837454a8a351a42aeede9ab"
+  },
+  "ayt/031.ayt": {
+   "boy": 364875,
+   "sha256": "a1ccbf562e1578bb49a8e3dcd1caab00b40e91c1a13320283ec9655bcbb6311d"
+  },
+  "ayt/032.ayt": {
+   "boy": 266957,
+   "sha256": "9a72ef90e3398bdd13f53e568f9fba87cf08a5beed052529dd240f745ea7d059"
+  },
+  "ayt/033.ayt": {
+   "boy": 911484,
+   "sha256": "932aa56ba48ec5d68939f9771ca6056b9af64bbb165f4e8bc07b88e7e34b6fa8"
+  },
+  "ayt/034.ayt": {
+   "boy": 598681,
+   "sha256": "70a2f9bc2ba87b9a2da8f3d1683ac7f84c8496d74281e01d06af989683dfad51"
+  },
+  "ayt/035.ayt": {
+   "boy": 533343,
+   "sha256": "00da16b9903d2e86d7e39ca12143c3eb64ff5ccdec0a70bd6322e441f0a766c0"
+  },
+  "ayt/036.ayt": {
+   "boy": 534098,
+   "sha256": "4531f3ce74f39df6c7d167679fb82982e594c89698ae0822d0f84f58eda3d29e"
+  },
+  "ayt/037.ayt": {
+   "boy": 740853,
+   "sha256": "de2269046c037b01e8550bf4b4461f8e0a84d8634d8f6c477de1b56e0087852f"
+  },
+  "ayt/038.ayt": {
+   "boy": 550311,
+   "sha256": "b03e4b12e15e2d25499d794242b934645d476959611e0d0e7ee9078fc2977574"
+  },
+  "ayt/039.ayt": {
+   "boy": 812403,
+   "sha256": "c988f38f1c1bb1fa7e8aa5e29bdac9e0cb03351fa475c140c20892947dd34cd4"
+  },
+  "ayt/040.ayt": {
+   "boy": 857716,
+   "sha256": "0aff09e51a73aa9a9f1c39aa826277fa12076eec23fa3684a45b71f213a5305b"
+  },
+  "ayt/041.ayt": {
+   "boy": 553859,
+   "sha256": "b28d1e708c0408f78797ae0df4ff2dfacf417fbb39be4d917d266ab2c9b2821a"
+  },
+  "ayt/042.ayt": {
+   "boy": 586949,
+   "sha256": "f19f49bdadcd66aa4b90b31bd4c5f8e859f166f3f2793b77f4f3c5cc487532af"
+  },
+  "ayt/043.ayt": {
+   "boy": 625000,
+   "sha256": "e4859a34802d66cf216d7d8d4dec06c71d9dcf9194e7ee29fcb315fbc23b854a"
+  },
+  "ayt/044.ayt": {
+   "boy": 276818,
+   "sha256": "a417f89859d8a4688ecaeb9098eb868eede3cc6d112ef4958937bab1b40ee349"
+  },
+  "ayt/045.ayt": {
+   "boy": 347817,
+   "sha256": "7d37d8b8623ee886f1bf9e00c9be7fc781196441d4e47f949c8a3b2555fc503d"
+  },
+  "ayt/046.ayt": {
+   "boy": 440417,
+   "sha256": "975e8ff61b7f19bac55940194635ff640433144232d87acf17bfbce4cb9e21bf"
+  },
+  "ayt/047.ayt": {
+   "boy": 402506,
+   "sha256": "449dec2ac7a54998f9dce48239d451fad3f7520f80ef60d6c7221a1fdeb4e5a1"
+  },
+  "ayt/048.ayt": {
+   "boy": 394801,
+   "sha256": "e126f63d90cb9b27812385dcac29c8dc4f5a8569c4d9bc270a79cd046e1c5f13"
+  },
+  "ayt/049.ayt": {
+   "boy": 246495,
+   "sha256": "6fe4d8027616b4779656c492fe34bc24a3ba5f04075a904ead4fc276946a206e"
+  },
+  "ayt/050.ayt": {
+   "boy": 272891,
+   "sha256": "9edfbfbae2822aecfb307ff716d88f0cd4ee3caa391ff607bed3290fce4e2c0c"
+  },
+  "ayt/051.ayt": {
+   "boy": 287078,
+   "sha256": "267d9073b0d5eb3a7073eeab47a8f473021fc5aa53caa7f4d1aba0285fc413be"
+  },
+  "ayt/052.ayt": {
+   "boy": 243342,
+   "sha256": "e5490b518cef7b571226bcad02f061900a152e7285c14926747292493b45bbb0"
+  },
+  "ayt/053.ayt": {
+   "boy": 280242,
+   "sha256": "4344a0c3716dea1a57b667d7739a706cff7d0f4272cf03bc67b7b792d88cb52d"
+  },
+  "ayt/054.ayt": {
+   "boy": 274180,
+   "sha256": "f0e6d7894faf399cea2b768f2306d14b6a306f1b32032597021ce93d875500d3"
+  },
+  "ayt/055.ayt": {
+   "boy": 326468,
+   "sha256": "03e79942d4196d305f4ecb8f5b019cab658002f8022ec43124e22b24f9ded9f2"
+  },
+  "ayt/056.ayt": {
+   "boy": 347214,
+   "sha256": "e60d4130629a119194088b89053fbdedcb4e8b0b24276acee2356ef7639a9157"
+  },
+  "ayt/057.ayt": {
+   "boy": 406318,
+   "sha256": "06028d77dc832d774166b7b4a75d31094adb1d78ae28cb60e7d4f7bd99eeabbc"
+  },
+  "ayt/058.ayt": {
+   "boy": 321686,
+   "sha256": "a9ef3a94496369bf1f2d36f1bab32b4c66d66fa6d4c7ee2b1ab1fc7b18b8f0be"
+  },
+  "ayt/059.ayt": {
+   "boy": 314488,
+   "sha256": "a4b5f8892d46f2cfecfdc0f572aaca4a61104dac2e23f48ef06470b7cd20267c"
+  },
+  "ayt/060.ayt": {
+   "boy": 242025,
+   "sha256": "6c1f726e6b640a1f85df219c0c0a3550689053e364dc30823da36bacabe50d64"
+  },
+  "ayt/061.ayt": {
+   "boy": 158748,
+   "sha256": "d23d4e034b5fa048f7a23953ec2fd985e42cb09f4ecb9bc16940c0fcd5c2d929"
+  },
+  "ayt/062.ayt": {
+   "boy": 125947,
+   "sha256": "e41ce89be9cd60530df685bca977485808c1fb3e7c04dba7fc0bb280e4adf11c"
+  },
+  "ayt/063.ayt": {
+   "boy": 132251,
+   "sha256": "32901516db0a5083a7c47c681cc2647cf9381fb7506e0a23c0e7e9f4b79368a3"
+  },
+  "ayt/064.ayt": {
+   "boy": 179479,
+   "sha256": "4abb6f57381feab3237957d7ad0aa5791fac462d414d4db9aee747b87f3bd994"
+  },
+  "ayt/065.ayt": {
+   "boy": 192541,
+   "sha256": "e0308889c86e36aa05bade3d8e0821d08196a49c4f2d4564846a17834e5c7057"
+  },
+  "ayt/066.ayt": {
+   "boy": 172991,
+   "sha256": "f0824ada14eb847aa21042a7b48ba3433191a39de6a599d464161211ce121799"
+  },
+  "ayt/067.ayt": {
+   "boy": 237180,
+   "sha256": "2630b2bd93f82773f63fd5559abbeaa91bcbafe9956a2fe65d8a38b51e0b9226"
+  },
+  "ayt/068.ayt": {
+   "boy": 242423,
+   "sha256": "bcfcabc507968797ce68f895733feb2a554526a91e0fac9c7c7b5b6a0328e22f"
+  },
+  "ayt/069.ayt": {
+   "boy": 218076,
+   "sha256": "43de0f23419a258772191e26f729f021f8f7a3553948d992ac62c5391921aa35"
+  },
+  "ayt/070.ayt": {
+   "boy": 187742,
+   "sha256": "205e2e9382c42e156719401be906c9f9750e9e4aa82f44194c5da247f013ea54"
+  },
+  "ayt/071.ayt": {
+   "boy": 171166,
+   "sha256": "34e4b259f952f667fa85c37f072ebc0a0469c77054377d94e62aaeef0b33869b"
+  },
+  "ayt/072.ayt": {
+   "boy": 192163,
+   "sha256": "2cc6ec576415360ce6f9e6c1ea79fdb0de3118865a9d76ae03ca14a7f62f1904"
+  },
+  "ayt/073.ayt": {
+   "boy": 147655,
+   "sha256": "5836803825036ef0c0a22d5dae99a2fbe88ac2a5dc5e9325e588efa95596df94"
+  },
+  "ayt/074.ayt": {
+   "boy": 207945,
+   "sha256": "96745b92edd8e8d69f2a2709b5631e3a10e4e9d768027d3f8993eaade4658e0c"
+  },
+  "ayt/075.ayt": {
+   "boy": 143407,
+   "sha256": "c8c5dcf91942fe2da99cf08c4dde83ac296880240d8fab2792c2c6207ae7e949"
+  },
+  "ayt/076.ayt": {
+   "boy": 186940,
+   "sha256": "b61d528cf1b53b59a3d38e0587c51048f4e1e906bd2a60deeea67dfd0c3226af"
+  },
+  "ayt/077.ayt": {
+   "boy": 175951,
+   "sha256": "f2bf0384327f4acba01a26fd56fff46ccf4ba65935ef9be56369aecbb631b3cf"
+  },
+  "ayt/078.ayt": {
+   "boy": 151996,
+   "sha256": "24296cdde938cef5b4a72e55ce47de249efe637713331e70fc4c4c5bbbf6b00a"
+  },
+  "ayt/079.ayt": {
+   "boy": 161966,
+   "sha256": "d69c16e10d98516760727968a37ba9ad340912fca125f73e3c95edb06874cc42"
+  },
+  "ayt/080.ayt": {
+   "boy": 125209,
+   "sha256": "97f347efe1395c62a5f038594658db906c5eddc7febeb99056b7003358ab3556"
+  },
+  "ayt/081.ayt": {
+   "boy": 96572,
+   "sha256": "7f26545cc13ddaef78917977b70fb2729ebe622070470591c8926763cbbd1cef"
+  },
+  "ayt/082.ayt": {
+   "boy": 69396,
+   "sha256": "a01f010d9db561a6d22c2f1322f221e9bbc23aa196165620b5bf6e8ce20d8796"
+  },
+  "ayt/083.ayt": {
+   "boy": 148827,
+   "sha256": "a55eea00b22bf575ebdf370945a7e7f6bc1e299fc4b44b02e989c352593fe6e1"
+  },
+  "ayt/084.ayt": {
+   "boy": 92789,
+   "sha256": "5f1c2e072f731214a3cc28eb8823233a0129a34efc1f567e1b7ae0c1e88a1320"
+  },
+  "ayt/085.ayt": {
+   "boy": 92786,
+   "sha256": "1137138c010cf9b3c059c38b558dcae670ab923eb004ac70cbee01d2795924a1"
+  },
+  "ayt/086.ayt": {
+   "boy": 57770,
+   "sha256": "82a4a5a74e3b3310a63c6a21f43102caf3b304ad6cefa7edc4bc67d5cad706d0"
+  },
+  "ayt/087.ayt": {
+   "boy": 65407,
+   "sha256": "06610b04dadcc07a792491607ad51e3c09f0302aaae53dea74aeea0329690321"
+  },
+  "ayt/088.ayt": {
+   "boy": 83664,
+   "sha256": "f09d1407c227977104856eb0035a716a4bc2f3c3a26e402f1e9178ce4a63d6b4"
+  },
+  "ayt/089.ayt": {
+   "boy": 116496,
+   "sha256": "ebead33819c61d800f4d0404976f243114129b9f0a443c4a4b1ee713573d0c56"
+  },
+  "ayt/090.ayt": {
+   "boy": 69784,
+   "sha256": "05b1fdd37b03d4cfb1a3abde3eaeb9a5eb61316a17bcdc27e4d59eba6686c100"
+  },
+  "ayt/091.ayt": {
+   "boy": 50919,
+   "sha256": "287e3b0682e4881d511b93de7b6c150b1c9dbf3ff981386f9d60a58f34abf076"
+  },
+  "ayt/092.ayt": {
+   "boy": 69458,
+   "sha256": "be5e6154f7e3856d4595fb3d1d08e1541b34d0057308c99f04cacfef88fc178e"
+  },
+  "ayt/093.ayt": {
+   "boy": 38072,
+   "sha256": "7664ad23bc57961b58a6b6f03ad8fe0d450bd89b7b899c016059365ec3e21dfa"
+  },
+  "ayt/094.ayt": {
+   "boy": 25986,
+   "sha256": "08d16908892522f7ac5aa8a848e309b0c9015309cf1ae74fc717c837502122b7"
+  },
+  "ayt/095.ayt": {
+   "boy": 32769,
+   "sha256": "183c8c1eb48eb0fb72914f2a4136105be640af1bbbaacf30116d24aabc69d105"
+  },
+  "ayt/096.ayt": {
+   "boy": 63713,
+   "sha256": "4046b8160842e1fe0002c4410d7b554955a41176428f3f3cf1479780c8951623"
+  },
+  "ayt/097.ayt": {
+   "boy": 24675,
+   "sha256": "8be8cdd676e9a0bbb479ed05e9d719a11116838c4a0e074d7a5084e1811736d2"
+  },
+  "ayt/098.ayt": {
+   "boy": 71429,
+   "sha256": "bc0416b2f3074421f4a5190fb3c5d77aaf4f47daa3abd9b523fea6597a856bc5"
+  },
+  "ayt/099.ayt": {
+   "boy": 33555,
+   "sha256": "fe43b4db7b9d78bc230dcaf41fb21392ce7f179c43bd288fb234347601fcf088"
+  },
+  "ayt/100.ayt": {
+   "boy": 37424,
+   "sha256": "ac24ae295f3853ca45d35c94eecd08a0d322eb34b81c991155597ce4605ae931"
+  },
+  "ayt/101.ayt": {
+   "boy": 36001,
+   "sha256": "a58c52b3fafe54d1bb1443f2de60fd903ef05aeb3f336bd2a420ce2aec31ee78"
+  },
+  "ayt/102.ayt": {
+   "boy": 27089,
+   "sha256": "330d160d7b47b25fee4c7bb0a1ef04a9e017e989c6708288f87221d0de67a638"
+  },
+  "ayt/103.ayt": {
+   "boy": 15403,
+   "sha256": "fe39306e5cd2735d30b2cdd146d6770ce866f4c2be58da99e71ad2d70ebb4be6"
+  },
+  "ayt/104.ayt": {
+   "boy": 31705,
+   "sha256": "82396e148bb460f27907609de5184608a878c88ab9e68bf2874dc28be2cfc177"
+  },
+  "ayt/105.ayt": {
+   "boy": 22251,
+   "sha256": "4b0e3f63d0431359a87b23f25251cfe89d6691d88ef688796089e043c94dc865"
+  },
+  "ayt/106.ayt": {
+   "boy": 18354,
+   "sha256": "3e24b0b32fbe4bcfb71d60fb07da99e1951c2d96fac5762c4819b3e0bc9feee3"
+  },
+  "ayt/107.ayt": {
+   "boy": 26562,
+   "sha256": "2bf43565e498d3f87d684420ea97e6bba27aff5a9000841996ac81f92c03078f"
+  },
+  "ayt/108.ayt": {
+   "boy": 12240,
+   "sha256": "31e104f35187d4fc8aa9de44a550475d722a41ea656eabc50e51d8e0ad6ae02b"
+  },
+  "ayt/109.ayt": {
+   "boy": 21943,
+   "sha256": "db4ee208a58230033632d4200cb9c76bf5d05ff21f28fedc74536ceb9bf27548"
+  },
+  "ayt/110.ayt": {
+   "boy": 17109,
+   "sha256": "70452193d258450990d54552ac40a9bdeb1398f000b3f872b62db961ce018824"
+  },
+  "ayt/111.ayt": {
+   "boy": 18825,
+   "sha256": "1641f96a9f9af8cad21ef0df2b17cbefcc85b337e41a30a912b1eff1d5d95474"
+  },
+  "ayt/112.ayt": {
+   "boy": 13484,
+   "sha256": "2421cab2f0dbc80ea78b11e4d15081606e508c7409c08ace94a24ab43d5e3e6b"
+  },
+  "ayt/113.ayt": {
+   "boy": 17848,
+   "sha256": "ab86a59176dcbe72e2a4385598a846ca9b3cbdaa45069a2128ec54431e07f38f"
+  },
+  "ayt/114.ayt": {
+   "boy": 20113,
+   "sha256": "79597ac37cd98e1ec7eac24d22bd0f1bcbd1773116b5e55f3a5e676eed540c12"
+  },
+  "ayt/besmele.ayt": {
+   "boy": 2889,
+   "sha256": "c01bb375b48f545a328f519c4d0baa9af92c2e9517e17f384f12907769ac6b7d"
+  },
+  "meal/turkish_rwwad.json": {
+   "boy": 894845,
+   "sha256": "e79ffcc3a1d22333d7282136336563bd42e241904e91bc6329f1d660cc367db6"
+  },
+  "meal/turkish_shahin.json": {
+   "boy": 930262,
+   "sha256": "7166b45dcd28e4ad41811642ea9b20df0d00a21f47a19c16c13bb68b5f4f2dcf"
+  },
+  "LISANSLAR.txt": {
+   "boy": 1683,
+   "sha256": "1b79b74b7e72f83216ea0e68e88291757579c5a81f1758b870e52b158074c00e"
+  }
+ }
+}
