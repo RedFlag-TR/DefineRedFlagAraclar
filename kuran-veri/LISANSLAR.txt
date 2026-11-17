@@ -33,6 +33,7 @@ Tanzil lisans basligi (aynen):
 
 Yazi tipi: Amiri Quran, SIL Open Font License 1.1 (goruntuler bu yazi tipiyle uretilmistir).
 
-Turkce mealler: QuranEnc.com - degistirilmeden; yayinci, kaynak ve surum belirtilir.
+Mealler (Turkce ve Ingilizce): QuranEnc.com - degistirilmeden; yayinci, kaynak ve surum belirtilir.
   - Turkish Translation - Dr. Ali Ozek and others (turkish_shahin), surum 1.0.0, guncelleme 1495486800
   - Turkish Translation - Rowwad Translation Center (turkish_rwwad), surum 1.0.4, guncelleme 1759071052
+  - English Translation - Noor International Center (english_saheeh), surum 1.1.2, guncelleme 1750772247

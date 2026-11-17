@@ -1,6 +1,6 @@
 {
  "bicim": 1,
- "uretim": "2026-11-13T09:16:34Z",
+ "uretim": "2026-11-17T10:15:26Z",
  "metin": "Tanzil Uthmani",
  "yazi_tipi": "Amiri Quran",
  "boy": 54,
@@ -15,6 +15,11 @@
    "ad": "Turkish Translation - Rowwad Translation Center",
    "surum": "1.0.4",
    "guncelleme": "1759071052"
+  },
+  "english_saheeh": {
+   "ad": "English Translation - Noor International Center",
+   "surum": "1.1.2",
+   "guncelleme": "1750772247"
   }
  },
  "dosyalar": {
@@ -478,6 +483,10 @@
    "boy": 2889,
    "sha256": "c01bb375b48f545a328f519c4d0baa9af92c2e9517e17f384f12907769ac6b7d"
   },
+  "meal/english_saheeh.json": {
+   "boy": 909474,
+   "sha256": "f2243b1b60671a4de7738dcabe618368261be5ce92087430de0e79566b3aec89"
+  },
   "meal/turkish_rwwad.json": {
    "boy": 894845,
    "sha256": "e79ffcc3a1d22333d7282136336563bd42e241904e91bc6329f1d660cc367db6"
@@ -487,8 +496,8 @@
    "sha256": "7166b45dcd28e4ad41811642ea9b20df0d00a21f47a19c16c13bb68b5f4f2dcf"
   },
   "LISANSLAR.txt": {
-   "boy": 1683,
-   "sha256": "1b79b74b7e72f83216ea0e68e88291757579c5a81f1758b870e52b158074c00e"
+   "boy": 1804,
+   "sha256": "ca34162a66d54263e6b3d97cf900689a928e907c70f1c142942b0c0fb702d629"
   }
  }
 }
